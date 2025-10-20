@@ -136,7 +136,7 @@ sort -u /opt/blocklist/blocklist.txt -o /opt/blocklist/blocklist.txt
 ---
 
 ## 👨‍💻 Autor
-**Lucas Eziquiel – FaithTech Soluções em TI**  
+**Lucas Alex – FaithTech Soluções em TI**  
 Infraestrutura, Segurança da Informação e Automação de Redes  
 📍 Projeto de portfólio e estudo – 2025
 
@@ -145,6 +145,4 @@ Infraestrutura, Segurança da Informação e Automação de Redes
 
 ---
 
-## 🧩 Hashtags sugeridas para post:
-`#wazuh #opensearch #fortinet #siem #cybersecurity #infosec #rsyslog #soc #portfolio #bluesecurity`
 
