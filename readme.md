@@ -6,7 +6,7 @@ Este projeto implementa uma arquitetura **SIEM completa** integrando **FortiGate
 ---
 
 ## ⚙️ Tecnologias Utilizadas
-- **FortiGate (100F / 60F)** – Firewall perimetral e VPN IPsec
+- **FortiGate (100F / 40F)** – Firewall perimetral e VPN IPsec
 - **rsyslog (Ubuntu Server)** – Coletor e agregador de logs
 - **Wazuh 4.9.2 + OpenSearch** – SIEM, análise, dashboard e correlação
 - **Linux & Windows Agents** – Monitoramento de servidores e FIM (File Integrity Monitoring)
