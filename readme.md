@@ -136,7 +136,7 @@ sort -u /opt/blocklist/blocklist.txt -o /opt/blocklist/blocklist.txt
 ---
 
 ## 👨‍💻 Autor
-**Lucas Alex – FaithTech Soluções em TI**  
+**Lucas Alex – FaithTech **  
 Infraestrutura, Segurança da Informação e Automação de Redes  
 📍 Projeto de portfólio e estudo – 2025
 
