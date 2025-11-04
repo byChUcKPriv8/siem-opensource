@@ -1,4 +1,4 @@
-# Projeto SIEM – Fortinet + Wazuh (FaithTech)
+# Projeto SIEM – Fortinet + Rsyslog + Wazuh
 
 ## 🧠 Visão Geral
 Este projeto implementa uma arquitetura **SIEM completa** integrando **FortiGate**, **rsyslog** e **Wazuh 4.9.2 (OpenSearch)** para centralizar logs, detectar ameaças e gerar visibilidade em tempo real sobre a infraestrutura. O ambiente foi projetado para ser **reprodutível, escalável e didático**, servindo como **portfólio profissional e base de estudos em segurança da informação**.
@@ -135,13 +135,11 @@ sort -u /opt/blocklist/blocklist.txt -o /opt/blocklist/blocklist.txt
 
 ---
 
-## 👨‍💻 Autor
-**Lucas Alex – FaithTech **  
-Infraestrutura, Segurança da Informação e Automação de Redes  
-📍 Projeto de portfólio e estudo – 2025
+
+**Lucas Eziquiel**  
+Analista de Infraestrutura e Segurança da Informação e Automação de Redes  
 
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/lucaseziquiel)  
-🛠️ Licença: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
